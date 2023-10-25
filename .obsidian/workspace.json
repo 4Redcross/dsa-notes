@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/2.3 Linked Lists.md",
+                "file": "Data Structures/2.4 Stacks & Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "BigO-cheat-sheet+(1).pdf"
+                "file": "Cheat Sheets/BigO-cheat-sheet+(1).pdf"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/2.3 Linked Lists.md",
+                "file": "Data Structures/2.4 Stacks & Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/2.3 Linked Lists.md",
+                "file": "Data Structures/2.4 Stacks & Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/2.3 Linked Lists.md"
+                "file": "Data Structures/2.4 Stacks & Queues.md"
               }
             }
           }
@@ -194,22 +194,24 @@
   },
   "active": "819565a170d11225",
   "lastOpenFiles": [
+    "Data Structures/RULES OF GOOD CODE.md",
+    "Data Structures/Interview Essentials.md",
+    "Data Structures/1.2 Big O.md",
+    "Data Structures/1.1 What are Data Structures.md",
+    "Cheat Sheets/Interview-cheatsheet.pdf",
+    "Cheat Sheets/BigO-cheat-sheet+(1).pdf",
+    "Cheat Sheets",
+    "Images/1 WuPrPNWDYL72boblf4Me4Q.webp",
+    "Images/hash-table-chaining.png",
+    "Images/Pasted image 20231017144016.png",
+    "Images/Pasted image 20231015201842.png",
+    "Images/Pasted image 20231015192412.png",
+    "Images/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png",
+    "Data Structures/2.3 Linked Lists.md",
+    "Images",
     "Data Structures/2.2 Hash Tables.md",
     "Data Structures/2.4 Stacks & Queues.md",
-    "Data Structures/2.3 Linked Lists.md",
-    "Big O.md",
-    "BigO-cheat-sheet+(1).pdf",
     "Data Structures/2.1 Arrays.md",
-    "Data Structures/1. What are Data Structures.md",
-    "s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png",
-    "Pasted image 20231017144016.png",
-    "Pasted image 20231015201842.png",
-    "Interview-cheatsheet.pdf",
-    "Pasted image 20231015192412.png",
-    "1 WuPrPNWDYL72boblf4Me4Q.webp",
-    "hash-table-chaining.png",
-    "Interview Essentials.md",
-    "RULES OF GOOD CODE -.md",
     "Data Structures",
     "cheatsheet.pdf"
   ]
