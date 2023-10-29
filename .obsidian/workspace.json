@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "819565a170d11225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.4 Stacks & Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09859a55e0fd7c83",
             "type": "leaf",
             "state": {
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,6 +207,7 @@
   },
   "active": "e9f518a5e689d605",
   "lastOpenFiles": [
+    "Data Structures/2.2 Hash Tables.md",
     "Data Structures/2.4 Stacks & Queues.md",
     "Data Structures/2.5.1 Binary Trees.md",
     "Images/Strict-Binary-Tree--3-.png",
@@ -238,7 +227,6 @@
     "Images/Pasted image 20231015192412.png",
     "Images/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png",
     "Images",
-    "Data Structures/2.2 Hash Tables.md",
     "Data Structures/2.1 Arrays.md",
     "Data Structures",
     "cheatsheet.pdf"
