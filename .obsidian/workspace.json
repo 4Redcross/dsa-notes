@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09859a55e0fd7c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.5 Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9f518a5e689d605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.5.1 Binary Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ae1ffbe040c245c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.4 Stacks & Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bffc4a14ec593152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.2 Hash Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4a0a8df5176dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/2.1 Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca6392f9d800b934",
             "type": "leaf",
             "state": {
@@ -77,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/2.5.1 Binary Trees.md",
+                "file": "Cheat Sheets/BigO-cheat-sheet+(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/2.5.1 Binary Trees.md",
+                "file": "Cheat Sheets/BigO-cheat-sheet+(1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/2.5.1 Binary Trees.md"
+                "file": "Cheat Sheets/BigO-cheat-sheet+(1).pdf"
               }
             }
           }
@@ -205,30 +144,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f518a5e689d605",
+  "active": "ca6392f9d800b934",
   "lastOpenFiles": [
+    "Algorithm Explanations/HeapSort/maxHeap.java",
+    "Algorithm Explanations/HeapSort/Heap Sort.md",
+    "Algorithm Explanations/HeapSort",
+    "Self Notes/Heap Sort.md",
+    "Algorithm Explanations/Diagrams/Min_Max_heap.png",
+    "Algorithm Explanations/Diagrams/Formed_Heap.png",
+    "Algorithm Explanations/Diagrams/Heap_sort_process.png",
+    "Algorithm Explanations/Diagrams/Complete_binary_tree example.png",
+    "Algorithm Explanations/Heap Sort.md",
+    "Algorithm Explanations/Diagrams",
+    "Algorithm Explanations",
+    "Notes/RULES OF GOOD CODE.md",
+    "Notes/Interview Essentials.md",
+    "Notes/3.1 Recursion.md",
+    "Notes/3.0 Algorithms.md",
+    "Notes/2.6 Graphs.md",
+    "Notes/2.5.3 Trie.md",
+    "Notes/2.5.2 Heaps.md",
+    "Notes/2.5.1 Binary Trees.md",
+    "Notes/2.5 Trees.md",
+    "Notes/2.4 Stacks & Queues.md",
+    "Notes/2.3 Linked Lists.md",
+    "Notes/2.2 Hash Tables.md",
+    "Notes/2.1 Arrays.md",
+    "Notes/2.0 Data Structures.md",
+    "Notes/1.2 Big O.md",
+    "Notes/1.1 What are Data Structures.md",
+    "Notes",
+    "Self Notes/Diagrams/Heap_sort_process.png",
+    "Self Notes/Diagrams/Formed_Heap.png",
+    "Self Notes/Diagrams/Complete_binary_tree example.png",
+    "Self Notes/Diagrams/Min_Max_heap.png",
+    "Self Notes/Diagrams/Max_heap.png",
+    "Self Notes/Diagrams",
+    "Untitled.md",
     "Data Structures/2.2 Hash Tables.md",
+    "Self Notes",
     "Data Structures/2.4 Stacks & Queues.md",
     "Data Structures/2.5.1 Binary Trees.md",
-    "Images/Strict-Binary-Tree--3-.png",
     "Data Structures/2.5 Trees.md",
-    "Data Structures/1.2 Big O.md",
-    "Data Structures/2.3 Linked Lists.md",
-    "Data Structures/RULES OF GOOD CODE.md",
-    "Data Structures/Interview Essentials.md",
-    "Data Structures/1.1 What are Data Structures.md",
+    "Data Structures/2.1 Arrays.md",
+    "Images/Strict-Binary-Tree--3-.png",
     "Cheat Sheets/Interview-cheatsheet.pdf",
     "Cheat Sheets/BigO-cheat-sheet+(1).pdf",
     "Cheat Sheets",
-    "Images/1 WuPrPNWDYL72boblf4Me4Q.webp",
-    "Images/hash-table-chaining.png",
-    "Images/Pasted image 20231017144016.png",
-    "Images/Pasted image 20231015201842.png",
-    "Images/Pasted image 20231015192412.png",
-    "Images/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png",
-    "Images",
-    "Data Structures/2.1 Arrays.md",
-    "Data Structures",
-    "cheatsheet.pdf"
+    "Images"
   ]
 }
